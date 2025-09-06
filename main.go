@@ -1,13 +1,9 @@
-package main
+package ig
 
 import (
 	"fmt"
 	"github.com/rfcku/insta-gogo/utils"
 )
-
-func main() {
-	fmt.Println("Hello, World!")
-}
 
 type InstagramApi struct {
 	AccessToken string
