@@ -1,3 +1,8 @@
+```
+$ go get github.com/rfcku/insta-gogo
+```
+
+
 ```go
     ig := ig.New("IG_TOKEN", "IG_ID")
 	
